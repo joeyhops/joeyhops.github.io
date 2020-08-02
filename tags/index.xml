@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Joey Hops New Groove</title>
-    <link>joeyhops.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Joey Hops New Groove</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="joeyhops.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>about</title>
-      <link>joeyhops.com/tags/about/</link>
+      <link>/tags/about/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>joeyhops.com/tags/about/</guid>
+      <guid>/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bio</title>
-      <link>joeyhops.com/tags/bio/</link>
+      <link>/tags/bio/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>joeyhops.com/tags/bio/</guid>
+      <guid>/tags/bio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>intro</title>
-      <link>joeyhops.com/tags/intro/</link>
+      <link>/tags/intro/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>joeyhops.com/tags/intro/</guid>
+      <guid>/tags/intro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>joe</title>
-      <link>joeyhops.com/tags/joe/</link>
+      <link>/tags/joe/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>joeyhops.com/tags/joe/</guid>
+      <guid>/tags/joe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>me</title>
-      <link>joeyhops.com/tags/me/</link>
+      <link>/tags/me/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>joeyhops.com/tags/me/</guid>
+      <guid>/tags/me/</guid>
       <description></description>
     </item>
     
     <item>
       <title>typescript</title>
-      <link>joeyhops.com/tags/typescript/</link>
+      <link>/tags/typescript/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>joeyhops.com/tags/typescript/</guid>
+      <guid>/tags/typescript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>welcome</title>
-      <link>joeyhops.com/tags/welcome/</link>
+      <link>/tags/welcome/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>joeyhops.com/tags/welcome/</guid>
+      <guid>/tags/welcome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>work</title>
-      <link>joeyhops.com/tags/work/</link>
+      <link>/tags/work/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>joeyhops.com/tags/work/</guid>
+      <guid>/tags/work/</guid>
       <description></description>
     </item>
     

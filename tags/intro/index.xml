@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>intro on Joey Hops New Groove</title>
-    <link>joeyhops.com/tags/intro/</link>
+    <link>/tags/intro/</link>
     <description>Recent content in intro on Joey Hops New Groove</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="joeyhops.com/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/intro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>That One Dev</title>
-      <link>joeyhops.com/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>joeyhops.com/about/</guid>
+      <guid>/about/</guid>
       <description>Who Is Joey Hops? Hi there! I&amp;rsquo;m Joe Hopkins, or Joey Hops if you prefer. I&amp;rsquo;m a software engineer here in beautiful Calgary, Alberta. Currently I&amp;rsquo;m working for a company called Wiles Jackson Inc. as a Full Stack Software Engineer. Recently we&amp;rsquo;ve been tapped by Trans Mountain (the pipeline guys) to manage and develop custom Sharepoint solutions for them, our biggest project being the PALMS Permit and Compliance Management system, a Modern Sharepoint Webpart developed using ReactJS and Typescript.</description>
     </item>
     
