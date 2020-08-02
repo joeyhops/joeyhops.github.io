@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Joey Hops New Groove</title>
-    <link>/categories/</link>
+    <link>joeyhops.com/categories/</link>
     <description>Recent content in Categories on Joey Hops New Groove</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="joeyhops.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meta</title>
-      <link>/categories/meta/</link>
+      <link>joeyhops.com/categories/meta/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/meta/</guid>
+      <guid>joeyhops.com/categories/meta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal Info</title>
-      <link>/categories/personal-info/</link>
+      <link>joeyhops.com/categories/personal-info/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/personal-info/</guid>
+      <guid>joeyhops.com/categories/personal-info/</guid>
       <description></description>
     </item>
     
